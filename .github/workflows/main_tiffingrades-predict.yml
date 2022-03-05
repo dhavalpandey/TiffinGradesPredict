@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'tiffingrades-predict'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4E1C9FB180B4435480DA8C84A92657FC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1D40FDC2BD154E748ABEB043639ADA6A }}
